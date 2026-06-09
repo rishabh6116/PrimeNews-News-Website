@@ -20,8 +20,11 @@ This project demonstrates the use of:
 
 ## 📸 Screenshots
 
+### Homepage
+![Homepage](assets/images/view1.jpeg)
 
-
+### News Section
+![News Section](assets/images/view2.jpeg)
 
 ---
 
